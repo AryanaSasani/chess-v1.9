@@ -1,0 +1,6 @@
+C:\Users\Aryana\source\repos\chess_1\bin\Debug\chess_1.exe.config
+C:\Users\Aryana\source\repos\chess_1\bin\Debug\chess_1.exe
+C:\Users\Aryana\source\repos\chess_1\bin\Debug\chess_1.pdb
+C:\Users\Aryana\source\repos\chess_1\obj\Debug\chess_1.csprojAssemblyReference.cache
+C:\Users\Aryana\source\repos\chess_1\obj\Debug\chess_1.exe
+C:\Users\Aryana\source\repos\chess_1\obj\Debug\chess_1.pdb
